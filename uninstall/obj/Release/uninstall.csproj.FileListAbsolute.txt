@@ -1,0 +1,9 @@
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\bin\Release\uninstall.exe.config
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\bin\Release\uninstall.exe
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\bin\Release\uninstall.pdb
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.Form1.resources
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.Properties.Resources.resources
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.csproj.GenerateResource.cache
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.csproj.CoreCompileInputs.cache
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.exe
+D:\学校\GIS设计与开发\太极\桌面版\uninstall\obj\Release\uninstall.pdb

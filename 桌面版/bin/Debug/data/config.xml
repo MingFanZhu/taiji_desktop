@@ -1,0 +1,16 @@
+<root>
+  <font_color>Black</font_color>
+  <font_size>16</font_size>
+  <line_space>25</line_space>
+  <font_family>宋体</font_family>
+  <text_folder></text_folder>
+  <json_folder></json_folder>
+  <poser_path></poser_path>
+  <get_sentences>http://47.101.146.224:5000/get_sentences</get_sentences>
+  <segment>http://47.101.146.224:5000/segment</segment>
+  <postag>http://47.101.146.224:5000/postag</postag>
+  <parser>http://47.101.146.224:5000/parser</parser>
+  <main_component>http://47.101.146.224:5000/main_component</main_component>
+  <upload>http://47.101.146.224:5000/upload</upload>
+  <preview>http://47.101.146.224:5000/static/upload.html</preview>
+</root>
